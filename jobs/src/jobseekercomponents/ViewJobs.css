@@ -1,0 +1,20 @@
+.custom-table {
+    font-size: 12px;
+    padding: 4px;
+    margin-top: 40px;
+    
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    padding: 4px;
+  }
+  .custom-buttons-container {
+    display: flex;
+    gap: 5px; /* Adjust the gap between buttons as needed */
+  }
+  
+  .custom-buttons-container button {
+    flex: 1; /* Distribute available space equally among buttons */
+  }
+  
